@@ -1,7 +1,7 @@
 # big-data-repository
 
 # Su-sun Maharjan
-
+<img src="https://raw.githubusercontent.com/susanmaharjan/big-data-repository/master/118176677_947553075724100_7960514796522513545_n.jpg" height = "300"/>
 ## Current
 
 I am a senior, working on a Bachelor of Science in Computer Science with a minor in System Management.
